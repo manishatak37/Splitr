@@ -3,7 +3,7 @@ import {Button} from "@/components/ui/button"
 
 export default function Home() {
   return (
-    <div>Subscribe to Roadsider
+    <div className="pt-16">Subscribe to Roadsider
       <br />
       <Button variant={"destructive"}>Subscribe</Button>
     </div>
